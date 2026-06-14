@@ -1,0 +1,5 @@
+google-genai
+notion-client>=3.0
+pypdf
+pillow
+python-dotenv
